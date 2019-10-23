@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Publications
 ## I am Jane. Do I Pay More in the Housing Market?
 with Myongjin Kim, Leilei, and Brent Norwood.
 **Economic Bulletin**, AccessEcon, vol. 39(2), pages 1612-1620.
@@ -20,7 +19,7 @@ in more recent years. One possible explanation for the disappearing gender
 price differentials in house prices and loan-to-price ratios is the shrinking
 of the gender wage gap in recent years.
 
-[Download paper here](http://seantoconnor.github.io/files/gender_housing.pdf)
+[Download here](http://seantoconnor.github.io/files/gender_housing.pdf)
 
 # Working Papers
 ## Retail Marijuana Deregulation and Housing Prices
