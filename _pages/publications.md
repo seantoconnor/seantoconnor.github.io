@@ -25,7 +25,7 @@ of the gender wage gap in recent years.
 ### Retail Marijuana Deregulation and Housing Prices
 with Donggeun Kim and Brent Norwood, 2019.
 
-Despite federal law, ten American states and Washington D.D. have legalized
+Despite federal law, ten American states and Washington D.C. have legalized
 recreational marijuana since 2012. Using a national housing data set from the
 online real estate listing database Zillow.com, we identify the cross and
 inter-state effects of marijuana legalization on house prices in different
