@@ -22,7 +22,7 @@ price differentials in house prices and loan-to-price ratios is the shrinking
 of the gender wage gap in recent years.
 
 # Working Papers
-### Retail Marijuana Deregulation and Housing Prices
+## Retail Marijuana Deregulation and Housing Prices
 with Donggeun Kim and Brent Norwood, 2019.
 
 Despite federal law, ten American states and Washington D.C. have legalized
@@ -42,13 +42,15 @@ status.
 
 # Works in Progress
 
+## Using Big Data to Estimate Long-Run Climate Change Adaptation: Evidence from the High Seas
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
+with William Thorne (CUNY Graduate Center)
 
-{% include base_path %}
+## Airline Mergers and De-Hubbing: Spillover Effects on the Local Housing Market
+with Myongjin Kim (University of Oklahoma) and Qi Ge (Vassar College)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## The War of 1812 and Risk Sharing in Whaling Labor Contracts
+with William Thorne
+
+## End of the Line? Depletion and the Collapse of the 19th Century American Whaling Industry
