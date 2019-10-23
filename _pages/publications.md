@@ -42,11 +42,11 @@ policy makers and voters should be aware of when deciding the drug's legal
 status.
 
 # Works in Progress
-## Using Big Data to Estimate Long-Run Climate Change Adaptation: Evidence from the High Seas
-## Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
-with William Thorne (CUNY Graduate Center)
-## Airline Mergers and De-Hubbing: Spillover Effects on the Local Housing Market
-with Myongjin Kim (University of Oklahoma) and Qi Ge (Vassar College)
-## The War of 1812 and Risk Sharing in Whaling Labor Contracts
-with William Thorne
-## End of the Line? Depletion and the Collapse of the 19th Century American Whaling Industry
+* Using Big Data to Estimate Long-Run Climate Change Adaptation: Evidence from the High Seas
+* Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
+  * with William Thorne (CUNY Graduate Center)
+* Airline Mergers and De-Hubbing: Spillover Effects on the Local Housing Market
+  * with Myongjin Kim (University of Oklahoma) and Qi Ge (Vassar College)
+* The War of 1812 and Risk Sharing in Whaling Labor Contracts
+  * with William Thorne
+* End of the Line? Depletion and the Collapse of the 19th Century American Whaling Industry
