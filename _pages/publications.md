@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -21,7 +20,7 @@ in more recent years. One possible explanation for the disappearing gender
 price differentials in house prices and loan-to-price ratios is the shrinking
 of the gender wage gap in recent years.
 
-[Download paper here](http://academicpages.github.io/files/gender_housing.pdf)
+[Download paper here](http://seantoconnor.github.io/files/gender_housing.pdf)
 
 # Working Papers
 ## Retail Marijuana Deregulation and Housing Prices
