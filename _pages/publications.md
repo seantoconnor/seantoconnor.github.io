@@ -1,11 +1,12 @@
 ---
 layout: archive
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+# Publications
 ## I am Jane. Do I Pay More in the Housing Market?
-with Myongjin Kim, Leilei, and Brent Norwood.
+with Myongjin Kim, Leilei Shen, and Brent Norwood.
 **Economic Bulletin**, AccessEcon, vol. 39(2), pages 1612-1620.
 
 Do women pay more than men in the housing market? We utilize repeat-sales
