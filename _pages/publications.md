@@ -4,7 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-# Publications
+Publications
+======
 ## I am Jane. Do I Pay More in the Housing Market?
 with Myongjin Kim, Leilei Shen, and Brent Norwood.
 **Economic Bulletin**, AccessEcon, vol. 39(2), pages 1612-1620.
@@ -22,7 +23,8 @@ of the gender wage gap in recent years.
 
 [Download here](http://seantoconnor.github.io/files/gender_housing.pdf)
 
-# Working Papers
+Working Papers
+======
 ## Retail Marijuana Deregulation and Housing Prices
 with Donggeun Kim and Brent Norwood, 2019.
 
@@ -41,7 +43,8 @@ there are second order benefits associated with marijuana legalization that
 policy makers and voters should be aware of when deciding the drug's legal
 status.
 
-# Works in Progress
+Works in Progress
+======
 * Using Big Data to Estimate Long-Run Climate Change Adaptation: Evidence from the High Seas
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
   * with William Thorne (CUNY Graduate Center)
