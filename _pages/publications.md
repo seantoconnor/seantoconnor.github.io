@@ -28,20 +28,8 @@ Working Papers
 ## Retail Marijuana Deregulation and Housing Prices
 with Donggeun Kim and Brent Norwood, 2019.
 
-Despite federal law, ten American states and Washington D.C. have legalized
-recreational marijuana since 2012. Using a national housing data set from the
-online real estate listing database Zillow.com, we identify the cross and
-inter-state effects of marijuana legalization on house prices in different
-points of the price distribution function. We find positive effects upwards
-of fifteen percent in the bottom half of the price distribution following
-successful legalization ballot initiatives, and twenty percent in the top half
-of the distribution after the state enacts the ballot initiative and the first
-legal sales take place. Within Colorado, the introduction of dispensaries to a
-neighborhood similarly results in a five percent price appreciation when
-dispensaries open nearby. Considered together, this research suggests that
-there are second order benefits associated with marijuana legalization that
-policy makers and voters should be aware of when deciding the drug's legal
-status.
+Despite federal law, twelve American states and Washington D.C. have legalized recreational marijuana since 2012. Using a national housing data set from the online real estate listing database Zillow.com, we identify the cross and inter-state effects of marijuana legalization on house prices in different points of the price distribution function. We find positive effects upwards of fifteen percent in the bottom half of the price distribution following successful legalization ballot initiatives, and twenty percent in the top half
+of the distribution after the state enacts the ballot initiative and the first legal sales take place. Within Colorado, the introduction of dispensaries to a neighborhood similarly results in a five percent price appreciation when dispensaries open nearby. Considered together, this research suggests that there are second order benefits associated with marijuana legalization that policy makers and voters should be aware of when deciding the drug's legal status.
 
 [Download here](http://seantoconnor.github.io/files/pot_v2.pdf)
 
