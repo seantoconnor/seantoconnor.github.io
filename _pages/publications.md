@@ -43,6 +43,8 @@ there are second order benefits associated with marijuana legalization that
 policy makers and voters should be aware of when deciding the drug's legal
 status.
 
+[Download here](http://seantoconnor.github.io/files/pot_v2.pdf)
+
 Works in Progress
 ======
 * Using Big Data to Estimate Long-Run Climate Change Adaptation: Evidence from the High Seas
