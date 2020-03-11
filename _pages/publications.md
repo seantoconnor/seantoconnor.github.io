@@ -35,7 +35,9 @@ of the distribution after the state enacts the ballot initiative and the first l
 
 Works in Progress
 ======
-* Using Big Data to Estimate Long-Run Climate Change Adaptation: Evidence from the High Seas
+* Climate Change Adaptation in Americans' Outdoors Recreation: Evidence from a Time Use Survey
+* Revealed Preferences for Baseball as an Environmental Good
+  * with Kevin Kuruc (Unviersity of Oklahoma)
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
   * with William Thorne (CUNY Graduate Center)
 * Airline Mergers and De-Hubbing: Spillover Effects on the Local Housing Market
