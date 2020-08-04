@@ -35,7 +35,6 @@ of the distribution after the state enacts the ballot initiative and the first l
 
 Works in Progress
 ======
-* Climate Change Adaptation in Americans' Outdoors Recreation: Evidence from a Time Use Survey
 * Revealed Preferences for Baseball as an Environmental Good
   * with Kevin Kuruc (Unviersity of Oklahoma)
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
@@ -44,4 +43,3 @@ Works in Progress
   * with Myongjin Kim (University of Oklahoma) and Qi Ge (Vassar College)
 * The War of 1812 and Risk Sharing in Whaling Labor Contracts
   * with William Thorne
-* End of the Line? Depletion and the Collapse of the 19th Century American Whaling Industry
