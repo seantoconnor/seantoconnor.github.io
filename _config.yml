@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sean O'Connor"
   avatar           : "profile.jpg"
-  bio              : "Economics PhD candidate at the University of Oklahoma"
+  bio              : "Economics PhD Candidate at the University of Oklahoma"
   location         : "Oklahoma City, OK"
   employer         :
   pubmed           :
@@ -99,7 +99,7 @@ author:
   github           : "seantoconnor"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "stoconno"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
