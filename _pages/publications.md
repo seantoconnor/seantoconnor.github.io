@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 Publications
-======
 ## I am Jane. Do I Pay More in the Housing Market?
 with Myongjin Kim, Leilei Shen, and Brent Norwood.
 **Economic Bulletin**, AccessEcon, vol. 39(2), pages 1612-1620.
@@ -24,17 +23,16 @@ of the gender wage gap in recent years.
 [Download here](http://seantoconnor.github.io/files/gender_housing.pdf)
 
 Working Papers
-======
 ## Retail Marijuana Deregulation and Housing Prices
-with Donggeun Kim and Brent Norwood, 2019.
+with Donggeun Kim and Brent Norwood, 2020.
 
-Despite federal law, twelve American states and Washington D.C. have legalized recreational marijuana since 2012. Using a national housing data set from the online real estate listing database Zillow.com, we identify the cross and inter-state effects of marijuana legalization on house prices in different points of the price distribution function. We find positive effects upwards of fifteen percent in the bottom half of the price distribution following successful legalization ballot initiatives, and twenty percent in the top half
-of the distribution after the state enacts the ballot initiative and the first legal sales take place. Within Colorado, the introduction of dispensaries to a neighborhood similarly results in a five percent price appreciation when dispensaries open nearby. Considered together, this research suggests that there are second order benefits associated with marijuana legalization that policy makers and voters should be aware of when deciding the drug's legal status.
+Despite federal law, twelve American states and Washington D.C. have legalized recreational marijuana since 2012. Using a national housing data set from the online real estate listing database Zillow.com, we identify the cross and inter-state effects of marijuana legalization on house prices in different points of the price distribution function. We find positive effects upwards of ten percent in the top half of the price distribution following successful legalization ballot initiatives, and between five and fifteen percent across the distribution after the state enacts the ballot initiative and the first legal sales take place. A spatial difference-in-differences model reveals that within Colorado and Washington, prices in neighborhoods with new dispensary openings nearby experience a seven percent price appreciation. To summarize, our results suggest that there are second order benefits to marijuana legalization
 
 [Download here](http://seantoconnor.github.io/files/pot_v2.pdf)
 
 Works in Progress
 ======
+* The Climate Change-Mortality Race Gap 
 * Revealed Preferences for Baseball as an Environmental Good
   * with Kevin Kuruc (Unviersity of Oklahoma)
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach

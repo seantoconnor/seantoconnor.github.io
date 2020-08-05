@@ -25,7 +25,7 @@ We see the expected seasonality -- people spend more time outside during the lat
 
 ## The Sensitivity to Weather
 
-Not all states are equally amenable to spending time outside. We wouldn't expect to be outdoors for long periods during a January in Chicago or a July in Phoenix. In order to assess the sensitivity to weather, I estimate a semi-parametric temperature response function for each metropolitan area in the country. Doing so gives us a better understanding of how people react to different ranges of temperatures.
+Not all states are equally amenable to spending time outside. We wouldn't expect to be outdoors for long periods during a January in Chicago or a July in Austin. In order to assess the sensitivity to weather, I estimate a semi-parametric temperature response function for each metropolitan area in the country. Doing so gives us a better understanding of how people react to different ranges of temperatures.
 
 The graph below plots the estimated coefficients for each 10-degree Farenheit temperature bin. The coefficients are relative to a baseline temperature of 60-70 degrees, so they can be interpreted as the change in the number of minutes spent outdoors each as a result of the day being in a particular temperature bin instead of the 60-70 degree bin. 
 
@@ -33,12 +33,33 @@ The graph below plots the estimated coefficients for each 10-degree Farenheit te
 
 The key takeaway is that most cities are very sensitive to cold temperatures and not very sensitive to hot temperatures. However, the effect is not uniform across all the cities in the sample. Importantly, these results estimate the short-run weather response, not the long-run climate response. In order to understand how the local climate influences the estimated temperature sensitivities, we need to go one step further.
 
-## The Climate Forecast
+## The Climate Effect
+
+Even though we might not expect to spend much time outside during a Chicago winter, the average Austin winter might be more amenable to outdoor activities. By the same logic, Chicagoans are likely more prepared for cold weather days regardless of the time of year. That is, Chicagoans have adapted to their local climate through investments in cold-climate infrastructure which make those extreme cold days more pleasant. Restaurants in Chicago, for example, are largely well insulated. The same cannot be said of Austin's food trucks. 
+
+So how much do these sorts of long-run climate investments affect the amount of time people spend outdoors? In order to estimate the climate effect on outdoor time, I regress the coefficients from the previous graph on the share of days a city experiences in all the temperature bins from 1979-2004. Plainly, I calculate how much the slope of the previous graph is affected by the local long-run climate.
+
+The figure below plots the change in the temperature response slope due to the share of days in the cold and warm temperature bins for two synthetic cities, one cold and one hot. Other than the average annual temperature, the two synthetic cities are identical in terms of their income, population density, and share of greenspace -- all factors that may influence how they respond to temperature.
+
+![](http://seantoconnor.github.io/images/stage2_sim.png)
+
+Both the hot and cold city respond negatively to the share of cold days, but the cold weather cities are especially responsive. For reference, a predicted value of -2 represents nearly 10% of the total effect from the coefficients from the previous graph. The response to hot climate is more measured, suggesting limited ability to adapt relative to cold weather adaptation.
+
+
+## The Climate Forecast and Its Implications
+
+Having established that cities in the U.S. are very sensitive to cold temperatures and the sensitivities are especially pronounced in cities that frequently experience cold days, I can now forecast how climate change at the end of the century will affect the amount of time we spend outside. 
+
+The graph below plots the change in the number of days that fall in 5-degree temperature bins under three different climate scenarios published by the Intergovernmental Panel on Climate Change.
 
 ![](http://seantoconnor.github.io/images/ipcc_scenarios.png)
 
+As we would expect, more greenhouse gas emissions lead to large rightward shifts in the temperature distribution. At the city level, the implication is that people will adjust the amount of time they spend outdoors because the number of pleasant days has changed. How much they adjust will depend on where they live:
+
 ![](http://seantoconnor.github.io/images/coef_sim.png)
 
-## The Implications
+In general cities in the North see substantial increases in the amount of time people will spend outside due to warmer winters, but Southern cities will see similar decreases due to warmer summers. Finally, I estimate the expected welfare effects that result from the change in outdoor time. Returning to the U-Index from the first figure, I forecast the expected change in time spent doing unpleasant activities as a result of climate change. 
 
 ![](http://seantoconnor.github.io/images/u_index_change.png)
+
+The forecasted welfare change as a result of climate change depends largely on where a person lives. For investors and policymakers, overlooked vectors of behavioral change due to climate change like the amount of time spent outdoors could have profound impacts on the welfare of the public and these impacts are not uniform across the country. Further research should carefully consider how the long-run climate of a city or country will affect how that place responds to climate change.
