@@ -10,23 +10,24 @@ This research examines the role of non-market behavioral adaptation to climate c
 
 [Download here](http://seantoconnor.github.io/files/atus.pdf)
 
-### The Great Outdoors
+## The Great Outdoors
 
 Lockdowns across the world in 2020 during the COVID-19 crisis have demonstrated the importance of spending time outdoors. Mental and physical health outcomes improve in natural environments. The figure below shows the share of time spent during different activities where the primary emotion was negative (e.g. a person felt more tired than alert or felt more depressed than happy):
 
 ![](http://seantoconnor.github.io/images/u_index.png)
 
-Clearly the time spent outside is more pleasant for non-labor activities. Despite the importance of time outdoors, future climate change threatens the way people allocate time outside in ways that we don't understand. This research estimates communities' sensitivities to temperature and how these sensitivities vary across the United States due to the local climate.
+Clearly the time spent outside is more pleasant during non-labor activities. Despite the importance of time outdoors, future climate change threatens the way people allocate time outside in ways that we don't understand. This research estimates communities' sensitivities to temperature and how these sensitivities vary across the United States due to the local climate.
 
 To demonstrate the geographic heterogeneity in temperature sensitivity, the animation below plots the average share of the day spent outside in each state using data from the American Time Use Survey:
-
 ![](http://seantoconnor.github.io/images/facet.gif)
 
 
-### The Sensitivity to Weather
+## The Sensitivity to Weather
+
+![](http://seantoconnor.github.io/images/care_stage1_alt.png)
 
 
-### The Climate Forecast
+## The Climate Forecast
 
 ![](http://seantoconnor.github.io/images/ipcc_scenarios.png)
 
