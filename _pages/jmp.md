@@ -16,7 +16,7 @@ Lockdowns across the world in 2020 during the COVID-19 crisis have demonstrated 
 
 ![](http://seantoconnor.github.io/images/u_index.png)
 
-Clearly the time spent outside is more pleasant during non-labor activities. Despite the importance of time outdoors, future climate change threatens the way people allocate time outside in ways that we don't understand. This research estimates communities' sensitivities to temperature and how these sensitivities vary across the United States due to the local climate.
+Clearly spending time outside is more pleasant than inside during non-labor activities. Despite the importance of time outdoors, future climate change threatens the way people allocate time outside in ways that we don't understand. This research estimates communities' sensitivities to temperature and how these sensitivities vary across the United States due to the local climate.
 
 To demonstrate the geographic heterogeneity in temperature sensitivity, the animation below plots the average share of the day spent outside in each state using data from the American Time Use Survey:
 ![](http://seantoconnor.github.io/images/facet.gif)
@@ -27,11 +27,11 @@ We see the expected seasonality -- people spend more time outside during the lat
 
 Not all states are equally amenable to spending time outside. We wouldn't expect to be outdoors for long periods during a January in Chicago or a July in Austin. In order to assess the sensitivity to weather, I estimate a semi-parametric temperature response function for each metropolitan area in the country. Doing so gives us a better understanding of how people react to different ranges of temperatures.
 
-The graph below plots the estimated coefficients for each 10-degree Farenheit temperature bin. The coefficients are relative to a baseline temperature of 60-70 degrees, so they can be interpreted as the change in the number of minutes spent outdoors each as a result of the day being in a particular temperature bin instead of the 60-70 degree bin. 
+The graph below plots the estimated coefficients for each 10-degree Farenheit temperature bin. The coefficients are relative to a baseline temperature of 60-70 degrees, so they can be interpreted as the change in the number of minutes spent outdoors each as a result of the day being in a particular temperature bin instead of the 60-70 degree bin. For reference, the unconditional mean number of minutes spent outdoors per day in the American Time Use Survey is 31.4 and, conditional on spending some time outside, the mean is 93.4 minutes.
 
 ![](http://seantoconnor.github.io/images/care_stage1_alt.png)
 
-The key takeaway is that most cities are very sensitive to cold temperatures and not very sensitive to hot temperatures. However, the effect is not uniform across all the cities in the sample. Importantly, these results estimate the short-run weather response, not the long-run climate response. In order to understand how the local climate influences the estimated temperature sensitivities, we need to go one step further.
+The key takeaway is that most cities are very sensitive to cold temperatures and not very sensitive to hot temperatures. However the effect is not uniform across all the cities in the sample. The effect is large, especially in the most extreme temperature bins, where there is roughly a 50% decrease in time outside. Importantly, these results estimate the short-run weather response, not the long-run climate response. In order to understand how the local climate influences the estimated temperature sensitivities, we need to go one step further.
 
 ## The Climate Effect
 
