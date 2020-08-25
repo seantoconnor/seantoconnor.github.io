@@ -25,7 +25,9 @@ We see the expected seasonality -- people spend more time outside during the lat
 
 ## The Sensitivity to Weather
 
-Not all states are equally amenable to spending time outside. We wouldn't expect to be outdoors for long periods during a January in Chicago or a July in Austin. In order to assess the sensitivity to weather, I estimate a semi-parametric temperature response function for each metropolitan area in the country. Doing so gives us a better understanding of how people react to different ranges of temperatures.
+Not all states are equally amenable to spending time outside. We wouldn't expect to be outdoors for long periods during a January in Chicago or a July in Austin. In order to assess the sensitivity to weather, I estimate a semi-parametric temperature response function for each metropolitan area in the country. Doing so gives us a better understanding of how people react to different ranges of temperatures. The model can be represented as:
+
+$$ y_{it} = \sum_{b \in B \backslash \{60-70\}} \beta_{b} D_{ibt} + \gamma X_{ijt} + \alpha_{jm} + \phi_{my} + \epsilon_{it}$$
 
 The graph below plots the estimated coefficients for each 10-degree Farenheit temperature bin. The coefficients are relative to a baseline temperature of 60-70 degrees, so they can be interpreted as the change in the number of minutes spent outdoors each as a result of the day being in a particular temperature bin instead of the 60-70 degree bin. For reference, the unconditional mean number of minutes spent outdoors per day in the American Time Use Survey is 31.4 and, conditional on spending some time outside, the mean is 93.4 minutes.
 
@@ -35,7 +37,7 @@ The key takeaway is that most cities are very sensitive to cold temperatures and
 
 ## The Climate Effect
 
-Even though we might not expect to spend much time outside during a Chicago winter, the average Austin winter might be more amenable to outdoor activities. By the same logic, Chicagoans are likely more prepared for cold weather days regardless of the time of year. That is, Chicagoans have adapted to their local climate through investments in cold-climate infrastructure which make those extreme cold days more pleasant. Restaurants in Chicago, for example, are largely well insulated. The same cannot be said of Austin's food trucks. 
+Even though we might not expect to spend much time outside during a Chicago winter, the average Austin winter is more amenable to outdoor activities. By the same logic, Chicagoans are likely more prepared for cold weather days regardless of the time of year. That is, Chicagoans have adapted to their local climate through investments in cold-climate infrastructure which make those extreme cold days more bearable. Restaurants in Chicago, for example, are largely well insulated. The same cannot be said of Austin's food trucks. 
 
 So how much do these sorts of long-run climate investments affect the amount of time people spend outdoors? In order to estimate the climate effect on outdoor time, I regress the coefficients from the previous graph on the share of days a city experiences in all the temperature bins from 1979-2004. Plainly, I calculate how much the slope of the previous graph is affected by the local long-run climate.
 
