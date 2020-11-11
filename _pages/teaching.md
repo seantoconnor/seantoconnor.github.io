@@ -10,6 +10,9 @@ Instructor
 * Econ 3113: Intermediate Microeconomic Theory (University of Oklahoma, Summer 2019)
 Undergraduate theory course taught in Summer 2019 and Spring 2020 at the
 University of Oklahoma.
+
+![](http://seantoconnor.github.io/images/evals.png)
+
   * [Course Materials](https://github.com/seantoconnor/Econ_3113)
   * [Evaluations](http://seantoconnor.github.io/files/evaluations_2019.pdf)
 
