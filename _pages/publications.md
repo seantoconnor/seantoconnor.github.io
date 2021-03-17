@@ -33,6 +33,7 @@ Despite federal law, twelve American states and Washington D.C. have legalized r
 Works in Progress
 ======
 * The Climate Change-Mortality Race Gap 
+* Heat and Police-Public Interactions: Evidence from Boston  
 * Revealed Preferences for Baseball as an Environmental Good
   * with Kevin Kuruc (Unviersity of Oklahoma)
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
