@@ -1,13 +1,7 @@
 # main links links
-main:
-  - title: "Job Market Paper"
-    url: /jmp/
-    
+main:  
   - title: "Research"
     url: /research/
-
-  - title: "Teaching"
-    url: /teaching/
-
+    
   - title: "CV"
     url: /cv/

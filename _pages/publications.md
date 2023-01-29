@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Publications
 ## I am Jane. Do I Pay More in the Housing Market?
-with Myongjin Kim, Leilei Shen, and Brent Norwood.
+with Myongjin Kim, Leilei Shen, and Brent Norwood.\\
 **Economic Bulletin**, AccessEcon, vol. 39(2), pages 1612-1620.
 
 Do women pay more than men in the housing market? We utilize repeat-sales
@@ -24,9 +24,11 @@ of the gender wage gap in recent years.
 
 # Working Papers
 
-## The Willingness to Pay for a Cooler Day: Evidence from 50 Years of Major League Baseball
+## [The Willingness to Pay for a Cooler Day: Evidence from 50 Years of Major League Baseball](http://seantoconnor.github.io.files/Baseball.pdf)
 with Melissa LoPalo and Kevin Kuruc\\
 **Revise and Resubmit at American Economic Journal: Applied Economics**
+
+The climate-economy literature has documented adverse effects of extreme temperatures on well-being through mechanisms such as mortality, productivity, and conflict. Impacts due simply to discomfort are less well understood. This paper investigates individuals' valuations of weather using a revealed preference approach. Using 50 years of data, we first quantify the decline in attendance at Major League Baseball games on hot days. Leveraging this finding coupled with historically-informed assumptions on the supply curve, we infer a monetized estimate of the disutility of heat. We estimate a \$1 utility loss per hour of exposure to high temperatures, implying non-trivial aggregate welfare effects.
 
 ## Retail Marijuana Deregulation and Housing Prices
 with Donggeun Kim and Brent Norwood, 2020.
