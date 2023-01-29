@@ -25,7 +25,7 @@ of the gender wage gap in recent years.
 # Working Papers
 
 ## The Willingness to Pay for a Cooler Day: Evidence from 50 Years of Major League Baseball
-with Melissa LoPalo and Kevin Kuruc
+with Melissa LoPalo and Kevin Kuruc\\
 **Revise and Resubmit at American Economic Journal: Applied Economics**
 
 ## Retail Marijuana Deregulation and Housing Prices
@@ -37,8 +37,6 @@ Despite federal law, twelve American states and Washington D.C. have legalized r
 
 # Works in Progress
 ======
-* Revealed Preferences for Baseball as an Environmental Good
-  * with Kevin Kuruc (Unviersity of Oklahoma)
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
   * with William Thorne (CUNY Graduate Center)
 * Airline Mergers and De-Hubbing: Spillover Effects on the Local Housing Market
