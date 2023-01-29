@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Publications
+# Publications
 ## I am Jane. Do I Pay More in the Housing Market?
 with Myongjin Kim, Leilei Shen, and Brent Norwood.
 **Economic Bulletin**, AccessEcon, vol. 39(2), pages 1612-1620.
@@ -22,7 +22,12 @@ of the gender wage gap in recent years.
 
 [Download here](http://seantoconnor.github.io/files/gender_housing.pdf)
 
-Working Papers
+# Working Papers
+
+## The Willingness to Pay for a Cooler Day: Evidence from 50 Years of Major League Baseball
+with Melissa LoPalo and Kevin Kuruc
+**Revise and Resubmit at American Economic Journal: Applied Economics**
+
 ## Retail Marijuana Deregulation and Housing Prices
 with Donggeun Kim and Brent Norwood, 2020.
 
@@ -30,15 +35,11 @@ Despite federal law, twelve American states and Washington D.C. have legalized r
 
 [Download here](http://seantoconnor.github.io/files/pot_v2.pdf)
 
-Works in Progress
+# Works in Progress
 ======
-* The Climate Change-Mortality Race Gap 
-* Heat and Police-Public Interactions: Evidence from Boston  
 * Revealed Preferences for Baseball as an Environmental Good
   * with Kevin Kuruc (Unviersity of Oklahoma)
 * Evaluating Hurriance Impacts on Housing Markets: A Synthetic Control Approach
   * with William Thorne (CUNY Graduate Center)
 * Airline Mergers and De-Hubbing: Spillover Effects on the Local Housing Market
   * with Myongjin Kim (University of Oklahoma) and Qi Ge (Vassar College)
-* The War of 1812 and Risk Sharing in Whaling Labor Contracts
-  * with William Thorne
