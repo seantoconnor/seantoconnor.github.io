@@ -2,6 +2,9 @@
 main:  
   - title: "Research"
     url: /research/
+
+  - title: "Job Market Paper"
+    url: /jmp/
     
   - title: "CV"
     url: /cv/
