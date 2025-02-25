@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Job Market Paper"
+permalink: /jmp/
 author_profile: true
 ---
 # Geographic Heterogeneity in Climate Change Adaptation: Behavioral Evidence from Participation in Outdoor Activities
