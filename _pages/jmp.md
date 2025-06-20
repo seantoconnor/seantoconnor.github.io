@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Job Market Paper"
+title: "The Geography of Climate Adaptation"
 permalink: /jmp/
 author_profile: true
 ---

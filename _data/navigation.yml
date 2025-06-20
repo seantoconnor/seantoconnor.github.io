@@ -3,8 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Job Market Paper"
+  - title: "The Geography of Climate Adaptation"
     url: /jmp/
+
+  - title: "The Value of a Cooler Day"
+    url: /baseball/
     
   - title: "CV"
     url: /cv/
