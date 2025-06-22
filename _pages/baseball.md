@@ -7,10 +7,12 @@ author_profile: true
 
 # The Willingness to Pay for a Cooler Day: Evidence from 50 Years of Major League Baseball Games
 Published: American Economic Journal: Applied Economics 2025, 17(1): 126-59 
+
+
 with Kevin Kuruc and Melissa LoPalo
 
-[Paper Link]
-[Data and Code]
+
+**Download [here](http://seantoconnor.github.io/files/wtp.pdf).**
 
 ## Motivation
 A large body of economic literature documents the severe impacts of extreme temperatures on critical outcomes like mortality, productivity, and GDP. However, one widely experienced but less-studied effect is the loss of well-being due simply to the discomfort of being outdoors on very hot or cold days. While potentially small at the individual level, the universal nature of this experience suggests that the aggregate welfare effects could be substantial.
@@ -44,7 +46,8 @@ Extreme weather significantly reduces MLB attendance. Attendance falls by 16% at
 
 (The figure below shows the main regression results, plotting the percentage change in game attendance for each 5-degree temperature bin relative to the 70-75°F bin.)
 
-[Image: Figure 3 from the paper showing the U-shaped effect of temperature on log attendance]
+![Image: Figure 3 from the paper showing the U-shaped effect of temperature on log attendance](http://seantoconnor.github.io/images/attendance_falls.png)
+
 The decline in attendance on hot days implies a significant change in fans' willingness to pay. Our estimates suggest the marginal fan's willingness to pay drops by $4.11 for a game played in >95°F heat.
 
 This translates to an hourly disutility of $1.53 per hour of exposure to temperatures above 95°F and $1.93 per hour for exposure below 45°F.
