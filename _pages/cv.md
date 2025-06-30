@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Available here](http://seantoconnor.github.io/files/SeanOConnorCV.pdf)
+[Available here](http://seantoconnor.github.io/files/SeanOConnorCV_USAA.pdf)
