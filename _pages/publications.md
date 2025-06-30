@@ -30,8 +30,6 @@ of the gender wage gap in recent years.
 
 [Download here](http://seantoconnor.github.io/files/gender_housing.pdf)
 
-# Working Papers
-
 
 # Works in Progress
 ======

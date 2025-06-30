@@ -12,7 +12,8 @@ Published: American Economic Journal: Applied Economics 2025, 17(1): 126-59
 with Kevin Kuruc and Melissa LoPalo
 
 
-**Paper draft available upon request. **
+**Paper draft available upon request.**
+
 ## Motivation
 A large body of economic literature documents the severe impacts of extreme temperatures on critical outcomes like mortality, productivity, and GDP. However, one widely experienced but less-studied effect is the loss of well-being due simply to the discomfort of being outdoors on very hot or cold days. While potentially small at the individual level, the universal nature of this experience suggests that the aggregate welfare effects could be substantial.
 
