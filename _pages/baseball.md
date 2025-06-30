@@ -49,7 +49,7 @@ Extreme weather significantly reduces MLB attendance. Attendance falls by 16% at
 
 The decline in attendance on hot days implies a significant change in fans' willingness to pay. Our estimates suggest the marginal fan's willingness to pay drops by \$4.11 for a game played in >95°F heat.
 
-This translates to an hourly disutility of \$1.53 per hour for exposure to temperatures above 95°F and \$1.93 per hour for exposure below 45°F.
+This translates to an hourly disutility of &#36;1.53 per hour for exposure to temperatures above 95°F and &#36;1.93 per hour for exposure below 45°F.
 
 The analysis of modern secondary market data validates these findings. On SeatGeek, ticket prices in 2021 fell by 8.4% on days over 90°F. When the historical attendance data is restricted to a comparable sample, the monetized disutility estimates from both methods align closely.
 
